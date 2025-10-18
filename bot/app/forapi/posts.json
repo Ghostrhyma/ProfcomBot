@@ -720,5 +720,167 @@
         "views": {
             "count": 1
         }
+    },
+    {
+        "inner_type": "wall_wallpost",
+        "donut": {
+            "is_donut": false
+        },
+        "comments": {
+            "can_post": 1,
+            "can_view": 1,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "marked_as_ads": 0,
+        "hash": "JXinvjZMJ8y5S0L2sA",
+        "type": "post",
+        "push_subscription": {
+            "is_subscribed": false
+        },
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1760783752,
+                    "id": 457239028,
+                    "owner_id": -224715948,
+                    "access_key": "82f52335132decd09d",
+                    "post_id": 41,
+                    "sizes": [
+                        {
+                            "height": 40,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun9-2.vkuserphoto.ru/s/v1/if2/2u_ndZ7MRWWurx6yq9BxeMKvHlcOeH42Po3T6UiARkLQnDURMdnbRrGvTz6QNC4FEyDkB9Ioi-QUbOeGZvp-HJuo.jpg?quality=95&as=32x18,48x26,72x40,108x59,160x88,240x132,360x198,480x263,540x296,640x351,720x395,882x484&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 88,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun9-2.vkuserphoto.ru/s/v1/if2/2u_ndZ7MRWWurx6yq9BxeMKvHlcOeH42Po3T6UiARkLQnDURMdnbRrGvTz6QNC4FEyDkB9Ioi-QUbOeGZvp-HJuo.jpg?quality=95&as=32x18,48x26,72x40,108x59,160x88,240x132,360x198,480x263,540x296,640x351,720x395,882x484&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 351,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun9-2.vkuserphoto.ru/s/v1/if2/2u_ndZ7MRWWurx6yq9BxeMKvHlcOeH42Po3T6UiARkLQnDURMdnbRrGvTz6QNC4FEyDkB9Ioi-QUbOeGZvp-HJuo.jpg?quality=95&as=32x18,48x26,72x40,108x59,160x88,240x132,360x198,480x263,540x296,640x351,720x395,882x484&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 484,
+                            "type": "y",
+                            "width": 882,
+                            "url": "https://sun9-2.vkuserphoto.ru/s/v1/if2/2u_ndZ7MRWWurx6yq9BxeMKvHlcOeH42Po3T6UiARkLQnDURMdnbRrGvTz6QNC4FEyDkB9Ioi-QUbOeGZvp-HJuo.jpg?quality=95&as=32x18,48x26,72x40,108x59,160x88,240x132,360x198,480x263,540x296,640x351,720x395,882x484&from=bu&cs=882x0"
+                        },
+                        {
+                            "height": 59,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun9-2.vkuserphoto.ru/s/v1/if2/2u_ndZ7MRWWurx6yq9BxeMKvHlcOeH42Po3T6UiARkLQnDURMdnbRrGvTz6QNC4FEyDkB9Ioi-QUbOeGZvp-HJuo.jpg?quality=95&as=32x18,48x26,72x40,108x59,160x88,240x132,360x198,480x263,540x296,640x351,720x395,882x484&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 132,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun9-2.vkuserphoto.ru/s/v1/if2/2u_ndZ7MRWWurx6yq9BxeMKvHlcOeH42Po3T6UiARkLQnDURMdnbRrGvTz6QNC4FEyDkB9Ioi-QUbOeGZvp-HJuo.jpg?quality=95&as=32x18,48x26,72x40,108x59,160x88,240x132,360x198,480x263,540x296,640x351,720x395,882x484&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 198,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun9-2.vkuserphoto.ru/s/v1/if2/2u_ndZ7MRWWurx6yq9BxeMKvHlcOeH42Po3T6UiARkLQnDURMdnbRrGvTz6QNC4FEyDkB9Ioi-QUbOeGZvp-HJuo.jpg?quality=95&as=32x18,48x26,72x40,108x59,160x88,240x132,360x198,480x263,540x296,640x351,720x395,882x484&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 296,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun9-2.vkuserphoto.ru/s/v1/if2/2u_ndZ7MRWWurx6yq9BxeMKvHlcOeH42Po3T6UiARkLQnDURMdnbRrGvTz6QNC4FEyDkB9Ioi-QUbOeGZvp-HJuo.jpg?quality=95&as=32x18,48x26,72x40,108x59,160x88,240x132,360x198,480x263,540x296,640x351,720x395,882x484&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 484,
+                            "type": "base",
+                            "width": 882,
+                            "url": "https://sun9-2.vkuserphoto.ru/s/v1/if2/2u_ndZ7MRWWurx6yq9BxeMKvHlcOeH42Po3T6UiARkLQnDURMdnbRrGvTz6QNC4FEyDkB9Ioi-QUbOeGZvp-HJuo.jpg?quality=95&as=32x18,48x26,72x40,108x59,160x88,240x132,360x198,480x263,540x296,640x351,720x395,882x484&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100,
+                    "web_view_token": "f0219c96e86d90a8e5",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 484,
+                        "type": "base",
+                        "url": "https://sun9-2.vkuserphoto.ru/s/v1/if2/2u_ndZ7MRWWurx6yq9BxeMKvHlcOeH42Po3T6UiARkLQnDURMdnbRrGvTz6QNC4FEyDkB9Ioi-QUbOeGZvp-HJuo.jpg?quality=95&as=32x18,48x26,72x40,108x59,160x88,240x132,360x198,480x263,540x296,640x351,720x395,882x484&from=bu",
+                        "width": 882
+                    }
+                }
+            }
+        ],
+        "date": 1760783752,
+        "from_id": -224715948,
+        "id": 41,
+        "likes": {
+            "can_like": 1,
+            "count": 0,
+            "user_likes": 0,
+            "can_publish": 1,
+            "repost_disabled": false
+        },
+        "reaction_set_id": "reactions",
+        "owner_id": -224715948,
+        "post_source": {
+            "type": "api"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "text": "тест2"
+    },
+    {
+        "inner_type": "wall_wallpost",
+        "donut": {
+            "is_donut": false
+        },
+        "comments": {
+            "can_post": 1,
+            "can_view": 1,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "marked_as_ads": 0,
+        "zoom_text": true,
+        "hash": "z0-V0qPTdU2KRa2sSw",
+        "type": "post",
+        "push_subscription": {
+            "is_subscribed": false
+        },
+        "attachments": [],
+        "date": 1760783810,
+        "from_id": -224715948,
+        "id": 42,
+        "likes": {
+            "can_like": 1,
+            "count": 0,
+            "user_likes": 0,
+            "can_publish": 1,
+            "repost_disabled": false
+        },
+        "reaction_set_id": "reactions",
+        "owner_id": -224715948,
+        "post_source": {
+            "type": "api"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "text": "тест3адшггггггпиагвшидырвапидгшвпидрпднрмвяпмшнвыаяднгпмн явншадрмидпывргяапдипгрокщмшнаявпаглпвс",
+        "views": {
+            "count": 1
+        }
     }
 ]
