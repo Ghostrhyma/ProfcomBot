@@ -1,0 +1,2 @@
+worker: bot/python run.py
+web: bot/python -m http.server $PORT
