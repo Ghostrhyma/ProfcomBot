@@ -1,0 +1,724 @@
+[
+    {
+        "inner_type": "wall_wallpost",
+        "donut": {
+            "is_donut": false
+        },
+        "comments": {
+            "can_post": 1,
+            "can_view": 1,
+            "count": 0
+        },
+        "marked_as_ads": 0,
+        "hash": "QvyNyJi4ZG1VjabvCw",
+        "type": "post",
+        "push_subscription": {
+            "is_subscribed": false
+        },
+        "carousel_offset": 0,
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1760358486,
+                    "id": 457239877,
+                    "owner_id": -63351098,
+                    "access_key": "314f01a3f425d8e299",
+                    "sizes": [
+                        {
+                            "height": 90,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun9-17.vkuserphoto.ru/s/v1/ig2/h4zqz6BuWYyCdwafkHw17VBl1UFFUEec9bf7hpTl6olWfJ07Vt6yd_2WzM73h6hg91_9zvOdtUXcgBGv82QRYWZ9.jpg?quality=96&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 200,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun9-17.vkuserphoto.ru/s/v1/ig2/h4zqz6BuWYyCdwafkHw17VBl1UFFUEec9bf7hpTl6olWfJ07Vt6yd_2WzM73h6hg91_9zvOdtUXcgBGv82QRYWZ9.jpg?quality=96&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 800,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun9-17.vkuserphoto.ru/s/v1/ig2/h4zqz6BuWYyCdwafkHw17VBl1UFFUEec9bf7hpTl6olWfJ07Vt6yd_2WzM73h6hg91_9zvOdtUXcgBGv82QRYWZ9.jpg?quality=96&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 1350,
+                            "type": "y",
+                            "width": 1080,
+                            "url": "https://sun9-17.vkuserphoto.ru/s/v1/ig2/h4zqz6BuWYyCdwafkHw17VBl1UFFUEec9bf7hpTl6olWfJ07Vt6yd_2WzM73h6hg91_9zvOdtUXcgBGv82QRYWZ9.jpg?quality=96&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350&from=bu&cs=1080x0"
+                        },
+                        {
+                            "height": 1350,
+                            "type": "z",
+                            "width": 1080,
+                            "url": "https://sun9-17.vkuserphoto.ru/s/v1/ig2/h4zqz6BuWYyCdwafkHw17VBl1UFFUEec9bf7hpTl6olWfJ07Vt6yd_2WzM73h6hg91_9zvOdtUXcgBGv82QRYWZ9.jpg?quality=96&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350&from=bu&cs=1080x0"
+                        },
+                        {
+                            "height": 135,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun9-17.vkuserphoto.ru/s/v1/ig2/h4zqz6BuWYyCdwafkHw17VBl1UFFUEec9bf7hpTl6olWfJ07Vt6yd_2WzM73h6hg91_9zvOdtUXcgBGv82QRYWZ9.jpg?quality=96&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 300,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun9-17.vkuserphoto.ru/s/v1/ig2/h4zqz6BuWYyCdwafkHw17VBl1UFFUEec9bf7hpTl6olWfJ07Vt6yd_2WzM73h6hg91_9zvOdtUXcgBGv82QRYWZ9.jpg?quality=96&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 450,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun9-17.vkuserphoto.ru/s/v1/ig2/h4zqz6BuWYyCdwafkHw17VBl1UFFUEec9bf7hpTl6olWfJ07Vt6yd_2WzM73h6hg91_9zvOdtUXcgBGv82QRYWZ9.jpg?quality=96&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 675,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun9-17.vkuserphoto.ru/s/v1/ig2/h4zqz6BuWYyCdwafkHw17VBl1UFFUEec9bf7hpTl6olWfJ07Vt6yd_2WzM73h6hg91_9zvOdtUXcgBGv82QRYWZ9.jpg?quality=96&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 1350,
+                            "type": "base",
+                            "width": 1080,
+                            "url": "https://sun9-17.vkuserphoto.ru/s/v1/ig2/h4zqz6BuWYyCdwafkHw17VBl1UFFUEec9bf7hpTl6olWfJ07Vt6yd_2WzM73h6hg91_9zvOdtUXcgBGv82QRYWZ9.jpg?quality=96&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350&from=bu"
+                        }
+                    ],
+                    "text": "Original: https://sun9-27.userapi.com/s/v1/ig2/ZGJwzyTQdgkplVgTdEXuBW4FG5qntuZuUe8Y2nCaRL7U2bOONPnjDcm9zuvQM133wg9O0YH0r7wgtFezGFqvltUj.jpg?quality=95&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350&from=bu&cs=1080x0",
+                    "user_id": 100,
+                    "web_view_token": "31821ba86712668f31",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 1350,
+                        "type": "base",
+                        "url": "https://sun9-17.vkuserphoto.ru/s/v1/ig2/h4zqz6BuWYyCdwafkHw17VBl1UFFUEec9bf7hpTl6olWfJ07Vt6yd_2WzM73h6hg91_9zvOdtUXcgBGv82QRYWZ9.jpg?quality=96&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350&from=bu",
+                        "width": 1080
+                    }
+                }
+            },
+            {
+                "type": "video",
+                "video": {
+                    "response_type": "full",
+                    "access_key": "2431c9c85bd4c3664f",
+                    "can_like": 0,
+                    "can_repost": 0,
+                    "can_add": 0,
+                    "date": 1760358997,
+                    "description": "",
+                    "duration": 38,
+                    "image": [
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=8904938425018&idx=15&type=39&tkn=GpLkWAK7mTWPTGT7Udbr0r2F7go&fn=vid_s",
+                            "width": 130,
+                            "height": 96,
+                            "with_padding": 1
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=8904938425018&idx=15&type=39&tkn=GpLkWAK7mTWPTGT7Udbr0r2F7go&fn=vid_m",
+                            "width": 160,
+                            "height": 120,
+                            "with_padding": 1
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=8904938425018&idx=15&type=39&tkn=GpLkWAK7mTWPTGT7Udbr0r2F7go&fn=vid_l",
+                            "width": 320,
+                            "height": 240,
+                            "with_padding": 1
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=8904938425018&idx=15&type=39&tkn=GpLkWAK7mTWPTGT7Udbr0r2F7go&fn=vid_x",
+                            "width": 800,
+                            "height": 450,
+                            "with_padding": 1
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=8904938425018&idx=15&type=39&tkn=GpLkWAK7mTWPTGT7Udbr0r2F7go&fn=vid_w",
+                            "width": 408,
+                            "height": 720
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=8904938425018&idx=15&type=39&tkn=GpLkWAK7mTWPTGT7Udbr0r2F7go&fn=vid_t",
+                            "width": 320,
+                            "height": 565
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=8904938425018&idx=15&type=39&tkn=GpLkWAK7mTWPTGT7Udbr0r2F7go&fn=vid_u",
+                            "width": 720,
+                            "height": 1272
+                        }
+                    ],
+                    "first_frame": [
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=8904938425018&idx=0&type=39&tkn=OY_3ZSb2TOajt-oT_q6aOt8CDsY&fn=vid_f",
+                            "width": 229,
+                            "height": 405
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=8904938425018&idx=0&type=39&tkn=OY_3ZSb2TOajt-oT_q6aOt8CDsY&fn=vid_md",
+                            "width": 152,
+                            "height": 270
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=8904938425018&idx=0&type=39&tkn=OY_3ZSb2TOajt-oT_q6aOt8CDsY&fn=vid_d",
+                            "width": 76,
+                            "height": 135
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=8904938425018&idx=0&type=39&tkn=OY_3ZSb2TOajt-oT_q6aOt8CDsY&fn=vid_sm",
+                            "width": 40,
+                            "height": 72
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=8904938425018&idx=0&type=39&tkn=OY_3ZSb2TOajt-oT_q6aOt8CDsY&fn=vid_w",
+                            "width": 407,
+                            "height": 720
+                        }
+                    ],
+                    "width": 480,
+                    "height": 848,
+                    "id": 456239033,
+                    "owner_id": -63351098,
+                    "title": "Video by Профсоюзная жизнь в КФ МГТУ им. Н.Э. Баумана",
+                    "track_code": "video_ed7b2560y_yHOhgzsbjk_wwdv09wwPHBI1QSqy-jouWxQvBwmYX93po1E1-9veD3NEKLekbywvgYZyGvWMLOibFM3UaqtjcQVfPU_3t2K8c0",
+                    "tracking_info": {
+                        "navigation": {
+                            "source_screen": "wall",
+                            "source_block": "no_block",
+                            "source_prev_screen": "no_source_prev_screen"
+                        },
+                        "recom_info": {
+                            "feature_sampling_uuid": ""
+                        },
+                        "search_info": {
+                            "search_query_id": "0",
+                            "search_iid": 0
+                        }
+                    },
+                    "type": "video",
+                    "views": 75,
+                    "can_dislike": 1,
+                    "should_stretch": false
+                }
+            }
+        ],
+        "date": 1760358486,
+        "edited": 1760359017,
+        "from_id": -63351098,
+        "id": 9441,
+        "likes": {
+            "can_like": 1,
+            "count": 3,
+            "user_likes": 0,
+            "can_publish": 1,
+            "repost_disabled": false
+        },
+        "reaction_set_id": "reactions",
+        "reactions": {
+            "count": 3,
+            "items": [
+                {
+                    "id": 0,
+                    "count": 3
+                }
+            ]
+        },
+        "owner_id": -63351098,
+        "post_source": {
+            "type": "api"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 2,
+            "user_reposted": 0
+        },
+        "text": "Впервые в Калуге — музыкальное лото! 😍 \n \nПравила простые: у каждого участника будет большой бланк с песнями, в котором нужно зачеркивать увиденные композиции🎵 \n \nПервый, кто соберёт комбинацию — забирает призы! \n \nВо время игры угадывать ничего не нужно, на экране будут появляться клипы и названия, остаётся только наслаждаться музыкой, веселиться и зачёркивать поля💃 \n5 звезд /18:00 \nКогда: 18 октября \nСтоимость 700 руб/человек \nБронь мест через группу \n \nhttps://vk.com/video148950217_456240951\nhttps://vk.com/bitva.kaluga",
+        "views": {
+            "count": 537
+        }
+    },
+    {
+        "inner_type": "wall_wallpost",
+        "copy_history": [
+            {
+                "inner_type": "wall_wallpost",
+                "type": "post",
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1758963291,
+                            "id": 457252978,
+                            "owner_id": -17178656,
+                            "access_key": "f9be8acd8c25237514",
+                            "post_id": 1591,
+                            "sizes": [
+                                {
+                                    "height": 72,
+                                    "type": "s",
+                                    "width": 72,
+                                    "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/yPSsNcS_FXxqivu8Guj1AzNl9D3K4OwRcp14FfuogWx6JLEmggsdzjy1P79sZ9dPfBgUb3uSrKEq5MVtWVkFUw1G.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=72x0"
+                                },
+                                {
+                                    "height": 160,
+                                    "type": "m",
+                                    "width": 160,
+                                    "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/yPSsNcS_FXxqivu8Guj1AzNl9D3K4OwRcp14FfuogWx6JLEmggsdzjy1P79sZ9dPfBgUb3uSrKEq5MVtWVkFUw1G.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=160x0"
+                                },
+                                {
+                                    "height": 640,
+                                    "type": "x",
+                                    "width": 640,
+                                    "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/yPSsNcS_FXxqivu8Guj1AzNl9D3K4OwRcp14FfuogWx6JLEmggsdzjy1P79sZ9dPfBgUb3uSrKEq5MVtWVkFUw1G.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=640x0"
+                                },
+                                {
+                                    "height": 1080,
+                                    "type": "y",
+                                    "width": 1080,
+                                    "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/yPSsNcS_FXxqivu8Guj1AzNl9D3K4OwRcp14FfuogWx6JLEmggsdzjy1P79sZ9dPfBgUb3uSrKEq5MVtWVkFUw1G.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=1080x0"
+                                },
+                                {
+                                    "height": 1280,
+                                    "type": "z",
+                                    "width": 1280,
+                                    "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/yPSsNcS_FXxqivu8Guj1AzNl9D3K4OwRcp14FfuogWx6JLEmggsdzjy1P79sZ9dPfBgUb3uSrKEq5MVtWVkFUw1G.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=1280x0"
+                                },
+                                {
+                                    "height": 2560,
+                                    "type": "w",
+                                    "width": 2560,
+                                    "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/yPSsNcS_FXxqivu8Guj1AzNl9D3K4OwRcp14FfuogWx6JLEmggsdzjy1P79sZ9dPfBgUb3uSrKEq5MVtWVkFUw1G.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=2560x0"
+                                },
+                                {
+                                    "height": 108,
+                                    "type": "o",
+                                    "width": 108,
+                                    "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/yPSsNcS_FXxqivu8Guj1AzNl9D3K4OwRcp14FfuogWx6JLEmggsdzjy1P79sZ9dPfBgUb3uSrKEq5MVtWVkFUw1G.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=108x0"
+                                },
+                                {
+                                    "height": 240,
+                                    "type": "p",
+                                    "width": 240,
+                                    "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/yPSsNcS_FXxqivu8Guj1AzNl9D3K4OwRcp14FfuogWx6JLEmggsdzjy1P79sZ9dPfBgUb3uSrKEq5MVtWVkFUw1G.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=240x0"
+                                },
+                                {
+                                    "height": 360,
+                                    "type": "q",
+                                    "width": 360,
+                                    "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/yPSsNcS_FXxqivu8Guj1AzNl9D3K4OwRcp14FfuogWx6JLEmggsdzjy1P79sZ9dPfBgUb3uSrKEq5MVtWVkFUw1G.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=360x0"
+                                },
+                                {
+                                    "height": 540,
+                                    "type": "r",
+                                    "width": 540,
+                                    "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/yPSsNcS_FXxqivu8Guj1AzNl9D3K4OwRcp14FfuogWx6JLEmggsdzjy1P79sZ9dPfBgUb3uSrKEq5MVtWVkFUw1G.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=540x0"
+                                },
+                                {
+                                    "height": 2560,
+                                    "type": "base",
+                                    "width": 2560,
+                                    "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/yPSsNcS_FXxqivu8Guj1AzNl9D3K4OwRcp14FfuogWx6JLEmggsdzjy1P79sZ9dPfBgUb3uSrKEq5MVtWVkFUw1G.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu"
+                                }
+                            ],
+                            "text": "",
+                            "user_id": 100,
+                            "web_view_token": "61d736b59802c5890c",
+                            "has_tags": false,
+                            "orig_photo": {
+                                "height": 2560,
+                                "type": "base",
+                                "url": "https://sun9-16.vkuserphoto.ru/s/v1/ig2/yPSsNcS_FXxqivu8Guj1AzNl9D3K4OwRcp14FfuogWx6JLEmggsdzjy1P79sZ9dPfBgUb3uSrKEq5MVtWVkFUw1G.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu",
+                                "width": 2560
+                            }
+                        }
+                    }
+                ],
+                "date": 1758963291,
+                "from_id": -17178656,
+                "id": 1591,
+                "owner_id": -17178656,
+                "post_source": {
+                    "type": "api"
+                },
+                "post_type": "post",
+                "text": "Дорогие первокурсники, вот и прошёл Винегрет! Как ваши впечатления? 😁 \n \n💫Спешим Вас обрадовать новостью о том, что уже в ПОНЕДЕЛЬНИК вы сможете вступить в студенческий актив! 💫 \n \nТы танцуешь? Поёшь? Хочешь заниматься творчеством? Тогда приходи к нам! \n \nМы расскажем Вам о мероприятиях, которые проводим в нашем университете, и о наших командах. \n \n📅 29 сентября/ПОНЕДЕЛЬНИК \n🕰 16:00 \n📍МОАЗ \n \nЖдём всех ☀"
+            }
+        ],
+        "donut": {
+            "is_donut": false
+        },
+        "comments": {
+            "can_post": 1,
+            "can_view": 1,
+            "count": 0
+        },
+        "marked_as_ads": 0,
+        "hash": "SwT9MMhm0-UjxazzEA",
+        "type": "post",
+        "attachments": [],
+        "date": 1759129148,
+        "from_id": -63351098,
+        "id": 9430,
+        "likes": {
+            "can_like": 1,
+            "count": 4,
+            "user_likes": 0,
+            "can_publish": 1,
+            "repost_disabled": false
+        },
+        "reaction_set_id": "reactions",
+        "reactions": {
+            "count": 4,
+            "items": [
+                {
+                    "id": 0,
+                    "count": 4
+                }
+            ]
+        },
+        "owner_id": -63351098,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "text": "",
+        "views": {
+            "count": 1352
+        }
+    },
+    {
+        "inner_type": "wall_wallpost",
+        "donut": {
+            "is_donut": false
+        },
+        "comments": {
+            "can_post": 1,
+            "can_view": 1,
+            "count": 0
+        },
+        "marked_as_ads": 0,
+        "hash": "QY9yUZ1iPM9zvv3nNg",
+        "type": "post",
+        "push_subscription": {
+            "is_subscribed": false
+        },
+        "carousel_offset": 0,
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1760603723,
+                    "id": 457239878,
+                    "owner_id": -63351098,
+                    "access_key": "02e251a426e00d04ce",
+                    "post_id": 9442,
+                    "sizes": [
+                        {
+                            "height": 40,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun1-92.vkuserphoto.ru/s/v1/if2/QlPwLMqTYevum8AfzdFCNEWK7SShV_rhIYVRuPt6Jc_fZ8QS1-cs5kTKx8L9qQLQUz7e97ypcrMcN-saYtRnYJfP.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 90,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun1-92.vkuserphoto.ru/s/v1/if2/QlPwLMqTYevum8AfzdFCNEWK7SShV_rhIYVRuPt6Jc_fZ8QS1-cs5kTKx8L9qQLQUz7e97ypcrMcN-saYtRnYJfP.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 360,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun1-92.vkuserphoto.ru/s/v1/if2/QlPwLMqTYevum8AfzdFCNEWK7SShV_rhIYVRuPt6Jc_fZ8QS1-cs5kTKx8L9qQLQUz7e97ypcrMcN-saYtRnYJfP.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 607,
+                            "type": "y",
+                            "width": 1080,
+                            "url": "https://sun1-92.vkuserphoto.ru/s/v1/if2/QlPwLMqTYevum8AfzdFCNEWK7SShV_rhIYVRuPt6Jc_fZ8QS1-cs5kTKx8L9qQLQUz7e97ypcrMcN-saYtRnYJfP.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&cs=1080x0"
+                        },
+                        {
+                            "height": 720,
+                            "type": "z",
+                            "width": 1280,
+                            "url": "https://sun1-92.vkuserphoto.ru/s/v1/if2/QlPwLMqTYevum8AfzdFCNEWK7SShV_rhIYVRuPt6Jc_fZ8QS1-cs5kTKx8L9qQLQUz7e97ypcrMcN-saYtRnYJfP.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&cs=1280x0"
+                        },
+                        {
+                            "height": 1080,
+                            "type": "w",
+                            "width": 1920,
+                            "url": "https://sun1-92.vkuserphoto.ru/s/v1/if2/QlPwLMqTYevum8AfzdFCNEWK7SShV_rhIYVRuPt6Jc_fZ8QS1-cs5kTKx8L9qQLQUz7e97ypcrMcN-saYtRnYJfP.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&cs=1920x0"
+                        },
+                        {
+                            "height": 61,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun1-92.vkuserphoto.ru/s/v1/if2/QlPwLMqTYevum8AfzdFCNEWK7SShV_rhIYVRuPt6Jc_fZ8QS1-cs5kTKx8L9qQLQUz7e97ypcrMcN-saYtRnYJfP.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 135,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun1-92.vkuserphoto.ru/s/v1/if2/QlPwLMqTYevum8AfzdFCNEWK7SShV_rhIYVRuPt6Jc_fZ8QS1-cs5kTKx8L9qQLQUz7e97ypcrMcN-saYtRnYJfP.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 202,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun1-92.vkuserphoto.ru/s/v1/if2/QlPwLMqTYevum8AfzdFCNEWK7SShV_rhIYVRuPt6Jc_fZ8QS1-cs5kTKx8L9qQLQUz7e97ypcrMcN-saYtRnYJfP.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 304,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun1-92.vkuserphoto.ru/s/v1/if2/QlPwLMqTYevum8AfzdFCNEWK7SShV_rhIYVRuPt6Jc_fZ8QS1-cs5kTKx8L9qQLQUz7e97ypcrMcN-saYtRnYJfP.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 1080,
+                            "type": "base",
+                            "width": 1920,
+                            "url": "https://sun1-92.vkuserphoto.ru/s/v1/if2/QlPwLMqTYevum8AfzdFCNEWK7SShV_rhIYVRuPt6Jc_fZ8QS1-cs5kTKx8L9qQLQUz7e97ypcrMcN-saYtRnYJfP.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100,
+                    "web_view_token": "0d70b79c18ecebfe67",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 1080,
+                        "type": "base",
+                        "url": "https://sun1-92.vkuserphoto.ru/s/v1/if2/QlPwLMqTYevum8AfzdFCNEWK7SShV_rhIYVRuPt6Jc_fZ8QS1-cs5kTKx8L9qQLQUz7e97ypcrMcN-saYtRnYJfP.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu",
+                        "width": 1920
+                    }
+                }
+            },
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1760603812,
+                    "id": 457239879,
+                    "owner_id": -63351098,
+                    "access_key": "69eb9f9c514c86b5c3",
+                    "sizes": [
+                        {
+                            "height": 102,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun1-27.vkuserphoto.ru/s/v1/ig2/gmGK7-x9snyjiWGRU39fB6ulUoONfX1lqTNxIEDT9McKHZDiAh9R8FgYaiAmcXo0B0bEYLJit-kgcdHKTVuFKi-H.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 226,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun1-27.vkuserphoto.ru/s/v1/ig2/gmGK7-x9snyjiWGRU39fB6ulUoONfX1lqTNxIEDT9McKHZDiAh9R8FgYaiAmcXo0B0bEYLJit-kgcdHKTVuFKi-H.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 600,
+                            "type": "x",
+                            "width": 424,
+                            "url": "https://sun1-27.vkuserphoto.ru/s/v1/ig2/gmGK7-x9snyjiWGRU39fB6ulUoONfX1lqTNxIEDT9McKHZDiAh9R8FgYaiAmcXo0B0bEYLJit-kgcdHKTVuFKi-H.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=424x0"
+                        },
+                        {
+                            "height": 600,
+                            "type": "y",
+                            "width": 424,
+                            "url": "https://sun1-27.vkuserphoto.ru/s/v1/ig2/gmGK7-x9snyjiWGRU39fB6ulUoONfX1lqTNxIEDT9McKHZDiAh9R8FgYaiAmcXo0B0bEYLJit-kgcdHKTVuFKi-H.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=424x0"
+                        },
+                        {
+                            "height": 153,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun1-27.vkuserphoto.ru/s/v1/ig2/gmGK7-x9snyjiWGRU39fB6ulUoONfX1lqTNxIEDT9McKHZDiAh9R8FgYaiAmcXo0B0bEYLJit-kgcdHKTVuFKi-H.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 340,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun1-27.vkuserphoto.ru/s/v1/ig2/gmGK7-x9snyjiWGRU39fB6ulUoONfX1lqTNxIEDT9McKHZDiAh9R8FgYaiAmcXo0B0bEYLJit-kgcdHKTVuFKi-H.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 509,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun1-27.vkuserphoto.ru/s/v1/ig2/gmGK7-x9snyjiWGRU39fB6ulUoONfX1lqTNxIEDT9McKHZDiAh9R8FgYaiAmcXo0B0bEYLJit-kgcdHKTVuFKi-H.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 600,
+                            "type": "base",
+                            "width": 424,
+                            "url": "https://sun1-27.vkuserphoto.ru/s/v1/ig2/gmGK7-x9snyjiWGRU39fB6ulUoONfX1lqTNxIEDT9McKHZDiAh9R8FgYaiAmcXo0B0bEYLJit-kgcdHKTVuFKi-H.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100,
+                    "web_view_token": "dc04cec9bb99ca6f24",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 600,
+                        "type": "base",
+                        "url": "https://sun1-27.vkuserphoto.ru/s/v1/ig2/gmGK7-x9snyjiWGRU39fB6ulUoONfX1lqTNxIEDT9McKHZDiAh9R8FgYaiAmcXo0B0bEYLJit-kgcdHKTVuFKi-H.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu",
+                        "width": 424
+                    }
+                }
+            },
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1760603812,
+                    "id": 457239880,
+                    "owner_id": -63351098,
+                    "access_key": "684bfd836ce8cfdbc8",
+                    "sizes": [
+                        {
+                            "height": 102,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun1-47.vkuserphoto.ru/s/v1/ig2/2s63lcfZigyqJqA-CxldcSZPfUZXNcQ53NltWk_Kn1MUtxZojQIJddl6R6ojkwe0YIZOuKJT1MqHaNau8HmaLEa7.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 226,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun1-47.vkuserphoto.ru/s/v1/ig2/2s63lcfZigyqJqA-CxldcSZPfUZXNcQ53NltWk_Kn1MUtxZojQIJddl6R6ojkwe0YIZOuKJT1MqHaNau8HmaLEa7.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 600,
+                            "type": "x",
+                            "width": 424,
+                            "url": "https://sun1-47.vkuserphoto.ru/s/v1/ig2/2s63lcfZigyqJqA-CxldcSZPfUZXNcQ53NltWk_Kn1MUtxZojQIJddl6R6ojkwe0YIZOuKJT1MqHaNau8HmaLEa7.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=424x0"
+                        },
+                        {
+                            "height": 600,
+                            "type": "y",
+                            "width": 424,
+                            "url": "https://sun1-47.vkuserphoto.ru/s/v1/ig2/2s63lcfZigyqJqA-CxldcSZPfUZXNcQ53NltWk_Kn1MUtxZojQIJddl6R6ojkwe0YIZOuKJT1MqHaNau8HmaLEa7.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=424x0"
+                        },
+                        {
+                            "height": 153,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun1-47.vkuserphoto.ru/s/v1/ig2/2s63lcfZigyqJqA-CxldcSZPfUZXNcQ53NltWk_Kn1MUtxZojQIJddl6R6ojkwe0YIZOuKJT1MqHaNau8HmaLEa7.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 340,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun1-47.vkuserphoto.ru/s/v1/ig2/2s63lcfZigyqJqA-CxldcSZPfUZXNcQ53NltWk_Kn1MUtxZojQIJddl6R6ojkwe0YIZOuKJT1MqHaNau8HmaLEa7.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 509,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun1-47.vkuserphoto.ru/s/v1/ig2/2s63lcfZigyqJqA-CxldcSZPfUZXNcQ53NltWk_Kn1MUtxZojQIJddl6R6ojkwe0YIZOuKJT1MqHaNau8HmaLEa7.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 600,
+                            "type": "base",
+                            "width": 424,
+                            "url": "https://sun1-47.vkuserphoto.ru/s/v1/ig2/2s63lcfZigyqJqA-CxldcSZPfUZXNcQ53NltWk_Kn1MUtxZojQIJddl6R6ojkwe0YIZOuKJT1MqHaNau8HmaLEa7.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100,
+                    "web_view_token": "39da671e1c648ee3df",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 600,
+                        "type": "base",
+                        "url": "https://sun1-47.vkuserphoto.ru/s/v1/ig2/2s63lcfZigyqJqA-CxldcSZPfUZXNcQ53NltWk_Kn1MUtxZojQIJddl6R6ojkwe0YIZOuKJT1MqHaNau8HmaLEa7.jpg?quality=95&as=32x45,48x68,72x102,108x153,160x226,240x340,360x509,424x600&from=bu",
+                        "width": 424
+                    }
+                }
+            }
+        ],
+        "date": 1760603723,
+        "edited": 1760603812,
+        "from_id": -63351098,
+        "id": 9442,
+        "likes": {
+            "can_like": 1,
+            "count": 11,
+            "user_likes": 0,
+            "can_publish": 1,
+            "repost_disabled": false
+        },
+        "reaction_set_id": "reactions",
+        "reactions": {
+            "count": 11,
+            "items": [
+                {
+                    "id": 0,
+                    "count": 11
+                }
+            ]
+        },
+        "owner_id": -63351098,
+        "post_source": {
+            "type": "api"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 1,
+            "user_reposted": 0
+        },
+        "text": "С 13 по 24 октября 2025 года на территории Калужской области проходит второй осенний этап Общероссийской антинаркотической акции «СООБЩИ, ГДЕ ТОРГУЮТ СМЕРТЬЮ». Она организована при поддержке Управления по контролю за оборотом наркотиков УМВД России по Калужской области в целях привлечения общественности к участию в противодействии незаконному обороту наркотиков и к профилактике их немедицинского потребления. \n \nСтудентам КФ МГТУ предлагается оказать содействие правоохранительным органам в проведении мероприятия.\n \nВ рамках акции сотрудники органов внутренних дел по телефонам 102 и 02, а также по адресу электронной почты: kalugabeznarkotikov@mail.ru будут принимать оперативную информацию от населения о фактах распространения наркотиков и интернет-сайтах, причастных к наркотической пропаганде. \n \nПо телефону горячей линии Калужского областного наркодиспансера: 8-919-032-25-41 все желающие могут получить квалифицированную помощь и консультации по вопросам лечения наркомании и реабилитации наркозависимых.",
+        "views": {
+            "count": 365
+        }
+    },
+    {
+        "inner_type": "wall_wallpost",
+        "donut": {
+            "is_donut": false
+        },
+        "comments": {
+            "can_post": 1,
+            "can_view": 1,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "marked_as_ads": 0,
+        "zoom_text": true,
+        "hash": "MVZhFgMq4Ik3uoZfgA",
+        "type": "post",
+        "push_subscription": {
+            "is_subscribed": false
+        },
+        "attachments": [],
+        "date": 1760740167,
+        "from_id": -224715948,
+        "id": 40,
+        "likes": {
+            "can_like": 1,
+            "count": 0,
+            "user_likes": 0,
+            "can_publish": 1,
+            "repost_disabled": false
+        },
+        "reaction_set_id": "reactions",
+        "owner_id": -224715948,
+        "post_source": {
+            "type": "api"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "text": "тест для бота",
+        "views": {
+            "count": 1
+        }
+    }
+]
