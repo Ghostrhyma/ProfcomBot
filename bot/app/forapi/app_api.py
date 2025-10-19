@@ -29,28 +29,35 @@ async def get_data_to_bot_mess(chat_id, last_post):
 
             text = copy_data[0]["text"]
             photos = []
+            files = []
 
             for item in copy_data[0].get("attachments", []):
                 if item.get("type") == "photo":
                     for photo in item["photo"]["sizes"]:
                         if photo["type"] == 'x':
                             photos.append(photo)
+                if item.get("type") == "doc":
+                    files.append(item["doc"])
 
-            return (text, photos)
+            return (text, photos, files)
 
         except KeyError:
             not_copy_data = data
 
             text = not_copy_data["text"]
             photos = []
+            files = []
+
 
             for item in not_copy_data["attachments"]:
                 if item.get("type") == "photo":
                     for photo in item["photo"]["sizes"]:
                         if photo["type"] == 'x':
                             photos.append(photo)
+                if item.get("type") == "doc":
+                    files.append(item["doc"])
 
-            return (text, photos)
+            return (text, photos, files)
     else:
         return flag
 
