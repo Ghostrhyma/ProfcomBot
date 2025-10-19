@@ -1,6 +1,7 @@
 from aiogram import Bot, Dispatcher
 from dotenv import load_dotenv
 import asyncio, os, logging, sys
+from aiohttp import web
 
 from app.handlers import router
 
@@ -18,7 +19,20 @@ async def on_startup(bot):
     asyncio.create_task(background_post_checker(bot))
     print("-- Фоновая задача запущена вместе с ботом")
 
+
+async def handle(request):
+    return web.Response(text="Bot is alive")
+
 async def main():
+    app = web.Application()
+    app.router.add_get("/", handle)
+
+    runner = web.AppRunner(app)
+    await runner.setup()
+    site = web.TCPSite(runner, "0.0.0.0", int(os.getenv("PORT", 8080)))
+    await site.start()
+
+    print("✅ Bot started and server is running...")
     await on_startup(bot)
     await dp.start_polling(bot)
 
