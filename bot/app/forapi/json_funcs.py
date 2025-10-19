@@ -76,4 +76,19 @@ async def get_last_post_from_json(filename, last_post):
     # else:
     #     add_to_json("C:/Projects/VK_API_ProvCom/bot/app/forapi/posts.json", last_data)
     #     flag = True
-    #     return (last_data, flag) 
+    #     return (last_data, flag)    
+
+async def add_to_json(filename: str, data: dict):
+    try:
+        if os.path.getsize(filename) != 0:
+            from_file_data = await read_from_json(filename)
+            if data not in from_file_data:
+                from_file_data.append(data)
+            
+            await write_in_json(filename, from_file_data)
+        else:
+            # new_data = []
+            # new_data.append(data)
+            await write_in_json(filename, data)
+    except Exception as e:
+        print(f"Ошибка: {e}")     
