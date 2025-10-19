@@ -2,24 +2,17 @@ from aiogram import Router
 from aiogram.filters import CommandStart
 from aiogram.types import Message, CallbackQuery
 
-from .forapi.app_api import get_data_to_bot_mess, get_last_post_from_group
+from .forapi.app_api import get_data_to_bot_mess
+from .forapi.json_funcs import get_last_post_from_group, read_from_json, add_to_json
 
+from datetime import datetime
 import asyncio
 
 router = Router()
 
 
-
 @router.message(CommandStart)
 async def get_start(message: Message):
-    while(True):
-        data = get_data_to_bot_mess()
-        if isinstance(data, bool):
-            print("Skip")
-            await asyncio.sleep(60)
-        else:
-            text, photos = data
-            if len(photos) != 0:
-                await message.answer_photo(photo=f"{photos[0]['url']}",caption=f"{text}")
-            else:
-                await message.answer(f"{text}")
+    chat_data = {"chat_id": str(message.chat.id), "date": str(datetime.now())}
+    await add_to_json("app/forapi/chats.json", chat_data)
+    await message.answer("Подписка на посты Профкома активирована!")

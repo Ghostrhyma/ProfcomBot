@@ -1,23 +1,27 @@
 from .json_funcs import get_last_post_from_json
 
+import aiohttp
 import requests
 from dotenv import load_dotenv
 import os
 
 load_dotenv()
 
-def get_last_post_from_group():
-    response = requests.get("https://api.vk.ru/method/wall.get",params={
-        "access_token": os.getenv("TOKEN"),
-        "v": os.getenv("VERSION"),
-        "domain": os.getenv("DOMAIN"),
-        "count": 1
-    })
-    return response.json()["response"]["items"][0]
+async def get_last_post_from_group():
+    async with aiohttp.ClientSession() as session:
+        async with session.get("https://api.vk.com/method/wall.get", params={
+            "access_token": os.getenv("TOKEN"),
+            "v": os.getenv("VERSION"),
+            "domain": os.getenv("DOMAIN"),
+            "count": 1
+        }) as response:
+            data = await response.json()
+            return data["response"]["items"][0]
 
 
-def get_data_to_bot_mess():
-    from_json = get_last_post_from_json("C:/Projects/VK_API_ProvCom/bot/app/forapi/posts.json")
+
+async def get_data_to_bot_mess(chat_id, last_post):
+    from_json = await get_last_post_from_json(f"app/forapi/posts_dir/{chat_id}_posts.json", last_post)
     data, flag = from_json[0], from_json[1]
     if flag:
         try:
