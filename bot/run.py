@@ -9,7 +9,7 @@ from app.background_task import background_post_checker
 
 load_dotenv()
 
-bot = Bot(token=os.getenv("BOT_TOKEN"))
+bot = Bot(token=str(os.getenv("BOT_TOKEN")))
 dp = Dispatcher()
 dp.include_router(router)
 

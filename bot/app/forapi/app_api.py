@@ -10,9 +10,9 @@ load_dotenv()
 async def get_last_post_from_group():
     async with aiohttp.ClientSession() as session:
         async with session.get("https://api.vk.com/method/wall.get", params={
-            "access_token": os.getenv("TOKEN"),
+            "access_token": str(os.getenv("TOKEN")),
             "v": os.getenv("VERSION"),
-            "domain": os.getenv("DOMAIN"),
+            "domain": str(os.getenv("DOMAIN")),
             "count": 1
         }) as response:
             data = await response.json()
