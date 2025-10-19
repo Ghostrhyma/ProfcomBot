@@ -34,6 +34,12 @@ async def read_from_json(filename: str) -> list:
 
 async def write_in_json(filename: str, data):
     try:
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        
+        if not os.path.exists(filename):
+            async with aiofiles.open(filename, "w", encoding="utf-8") as f:
+                await f.write("[]") 
+
         async with aiofiles.open(filename, "w", encoding="utf-8") as w_json:
             await w_json.write(json.dumps(data, ensure_ascii=False, indent=4))
     except Exception as e:
