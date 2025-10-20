@@ -1,7 +1,9 @@
 from aiogram import Bot, Dispatcher
+from aiogram.types import BotCommand
 from dotenv import load_dotenv
 import asyncio, os, logging, sys
 from aiohttp import web
+
 
 from app.handlers import router
 
@@ -13,6 +15,14 @@ load_dotenv()
 bot = Bot(token=str(os.getenv("BOT_TOKEN")))
 dp = Dispatcher()
 dp.include_router(router)
+
+async def commands_list():
+    commands = [
+        BotCommand(command="start", description="Подключение бота к чату"),
+        BotCommand(command="stop", description="Отключение бота от чата"),
+    ]
+    await bot.set_my_commands(commands=commands)
+
 
 async def on_startup(bot):
     # Запуск фоновой задачи
@@ -31,8 +41,10 @@ async def main():
     await runner.setup()
     site = web.TCPSite(runner, "0.0.0.0", int(os.getenv("PORT", 8080)))
     await site.start()
-
     print("✅ Bot started and server is running...")
+    
+    await commands_list()
+    
     await on_startup(bot)
     await dp.start_polling(bot)
 
