@@ -1,5 +1,5 @@
 from aiogram import Bot, Dispatcher
-from aiogram.types import BotCommand
+from aiogram.types import BotCommand, BotCommandScopeAllChatAdministrators
 from dotenv import load_dotenv
 import asyncio, os, logging, sys
 from aiohttp import web
@@ -21,7 +21,7 @@ async def commands_list():
         BotCommand(command="start", description="Подключение бота к чату"),
         BotCommand(command="stop", description="Отключение бота от чата"),
     ]
-    await bot.set_my_commands(commands=commands)
+    await bot.set_my_commands(commands=commands, scope=BotCommandScopeAllChatAdministrators())
 
 
 async def on_startup(bot):
