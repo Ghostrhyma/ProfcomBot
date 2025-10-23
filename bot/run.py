@@ -9,7 +9,7 @@ from app.handlers import router
 
 from app.background_task import background_post_checker
 
-
+    
 load_dotenv()
 
 bot = Bot(token=str(os.getenv("BOT_TOKEN")))
@@ -20,6 +20,7 @@ async def commands_list():
     commands = [
         BotCommand(command="start", description="Подключение бота к чату"),
         BotCommand(command="stop", description="Отключение бота от чата"),
+        BotCommand(command="push_domain", description="Подключение группы по ссылке")
     ]
     await bot.set_my_commands(commands=commands, scope=BotCommandScopeAllChatAdministrators())
 

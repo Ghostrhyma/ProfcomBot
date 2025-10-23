@@ -1,0 +1,109 @@
+[
+    {
+        "inner_type": "wall_wallpost",
+        "donut": {
+            "is_donut": false
+        },
+        "comments": {
+            "can_post": 1,
+            "can_view": 1,
+            "count": 23,
+            "groups_can_post": true
+        },
+        "marked_as_ads": 0,
+        "hash": "X1pZ4HZjRc6sNjC3iQ",
+        "type": "post",
+        "push_subscription": {
+            "is_subscribed": false
+        },
+        "attachments": [
+            {
+                "type": "video",
+                "video": {
+                    "response_type": "full",
+                    "can_like": 1,
+                    "can_repost": 1,
+                    "can_subscribe": 1,
+                    "can_add": 0,
+                    "comments": 23,
+                    "date": 0,
+                    "duration": 0,
+                    "image": [
+                        {
+                            "url": "https://vk.com/images/video/thumbs/video_s.png",
+                            "width": 130,
+                            "height": 96,
+                            "with_padding": 1
+                        },
+                        {
+                            "url": "https://vk.com/images/video/thumbs/video_m.png",
+                            "width": 160,
+                            "height": 120,
+                            "with_padding": 1
+                        },
+                        {
+                            "url": "https://vk.com/images/video/thumbs/video_l.png",
+                            "width": 320,
+                            "height": 240,
+                            "with_padding": 1
+                        },
+                        {
+                            "url": "https://vk.com/images/video/thumbs/video_x.png",
+                            "width": 800,
+                            "height": 450,
+                            "with_padding": 1
+                        }
+                    ],
+                    "width": 480,
+                    "height": 852,
+                    "id": 456302009,
+                    "owner_id": -167127847,
+                    "title": "Clip unavailable",
+                    "is_favorite": false,
+                    "track_code": "video_8d456ac8Gx6GLO8wPIHyrECxXGdFQkeyj1mwq0v48y9XFCtIk10KJ5or7jY_hP2gQ9kya0RHQbOJaYCST4-SQzsbnapnkRkKqx3ZBw2zxZR0hgOsj4uLfUKWf21Ojw",
+                    "repeat": 1,
+                    "type": "short_video",
+                    "views": 0,
+                    "local_views": 0,
+                    "content_restricted": 1,
+                    "content_restricted_message": "This video is only available on the official VK app",
+                    "wall_post_id": 1843514
+                }
+            }
+        ],
+        "date": 1761150900,
+        "edited": 1761159564,
+        "from_id": -167127847,
+        "id": 1843514,
+        "likes": {
+            "can_like": 1,
+            "count": 212,
+            "user_likes": 0,
+            "can_publish": 1,
+            "repost_disabled": false
+        },
+        "reaction_set_id": "reactions",
+        "reactions": {
+            "count": 212,
+            "items": [
+                {
+                    "id": 0,
+                    "count": 212
+                }
+            ]
+        },
+        "owner_id": -167127847,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 246,
+            "user_reposted": 0
+        },
+        "text": "",
+        "views": {
+            "count": 5171
+        }
+    }
+]
