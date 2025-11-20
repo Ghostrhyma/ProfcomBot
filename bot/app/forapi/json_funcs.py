@@ -59,6 +59,7 @@ async def delete_chat_from_json(filename: str, key: str, value: str):
     except Exception as e:
         print(f"delete_from_json --- Ошибка: {e}")
 
+
 async def get_last_post_from_json(filename, last_post):
     from_file = await read_from_json(filename=filename)
     last_data = last_post

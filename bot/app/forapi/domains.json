@@ -76,5 +76,14 @@
                 "message_thread_id": null
             }
         ]
+    },
+    {
+        "domain": "bedolagahouse",
+        "chat": [
+            {
+                "chat_id": -1002457200822,
+                "message_thread_id": null
+            }
+        ]
     }
 ]
